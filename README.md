@@ -2,8 +2,8 @@
 Tweets preprocessing + LSTM/ BiLSTM. Detailed description please see the demo in Demo_Twitter_Response.ipynb
 
 ### Requirement:
-numpy
-pandas
+numpy \n
+pandas \n
 sklearn
 gensim
 nltk
